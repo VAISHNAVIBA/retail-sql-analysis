@@ -1,0 +1,4 @@
+OrderDetailID,OrderID,ProductID,Quantity
+1,1001,101,1
+2,1001,102,2
+3,1002,102,3
